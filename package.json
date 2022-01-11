@@ -1,7 +1,7 @@
 {
   "name": "rc-year-calendar",
   "version": "1.0.2",
-  "description": "Official react wrapper for the year-calendar widget",
+  "description": "Official react wrapper for the year-calendar widget - modified by Calum",
   "main": "./dist/rc-year-calendar.js",
   "scripts": {
     "watch": "rollup -c --watch",
@@ -17,7 +17,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/year-calendar/rc-year-calendar.git"
+    "url": "git+https://github.com/CalumMortimer/rc-year-calendar.git"
   },
   "keywords": [
     "calendar",
@@ -33,7 +33,7 @@
   },
   "homepage": "https://year-calendar.github.io/",
   "dependencies": {
-    "js-year-calendar": "^2.0.0"
+    "js-year-calendar": "git+https://github.com/CalumMortimer/js-year-calendar.git"
   },
   "peerDependencies": {
     "prop-types": "^15.7.2",
