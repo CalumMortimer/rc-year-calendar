@@ -17,8 +17,7 @@ var defaultConfig = {
     }),
     commonjs(),
     postcss()
-  ],
-  external: Object.keys(pkg.peerDependencies)
+  ]
 };
 
 export default [
