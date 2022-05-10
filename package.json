@@ -33,9 +33,7 @@
   },
   "homepage": "https://year-calendar.github.io/",
   "dependencies": {
-    "js-year-calendar": "git+https://github.com/CalumMortimer/js-year-calendar.git"
-  },
-  "peerDependencies": {
+    "js-year-calendar": "git+https://github.com/CalumMortimer/js-year-calendar.git",
     "prop-types": "^15.7.2",
     "react": "^17.0.2"
   },
