@@ -3,3 +3,7 @@ dist
 coverage
 docs
 locales
+
+package-lock.json
+
+yarn.lock
