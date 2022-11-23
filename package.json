@@ -30,6 +30,7 @@
   "license": "Apache-2.0",
   "dependencies": {
     "js-year-calendar": "https://github.com/CalumMortimer/js-year-calendar.git",
+    "postcss": "^8.4.19",
     "prop-types": "^15.7.2",
     "react": "^17.0.2"
   },
